@@ -1,0 +1,29 @@
+{
+  "name": "discord-bot-banhammer",
+  "version": "1.0.0",
+  "description": "Bans those stupid discord users that go posting phishing links for the innocent little kids to click on",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbaumer22/discord-bot-banhammer.git"
+  },
+  "keywords": [
+    "ban",
+    "discord",
+    "bot",
+    "banhammer",
+    "scammers"
+  ],
+  "author": "Tate Berenbaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbaumer22/discord-bot-banhammer/issues"
+  },
+  "homepage": "https://github.com/tbaumer22/discord-bot-banhammer#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
